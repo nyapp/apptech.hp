@@ -9,9 +9,14 @@
 html {
     margin: 0 auto;
     max-width: 960px;
-
 }
 
-.container {
-    font-family: 'Noto Sans CJK JP', sans-serif;
+.navbar {
+    width: 100%;
+}
+
+.navbutton {
+    position: absolute;
+    top: 8px;
+    right: 0;
 }
