@@ -4,6 +4,16 @@
     padding-left: 15px;
 }
 
+.cover-2 {
+    background: url(../img/brushes.jpg);
+    background-size: cover;
+}
+
+.cover-2 > p {
+    border: solid 1px;
+    border-radius: 10px;
+    margin-bottom: 0px;
+}
 
 
 html {
@@ -19,4 +29,9 @@ html {
     position: absolute;
     top: 8px;
     right: 0;
+}
+
+.m0-auto {
+    display: block;
+    margin: 0 auto;
 }
