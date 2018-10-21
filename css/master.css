@@ -52,10 +52,6 @@ html {
     margin: 0 auto;
 }
 
-#vs-cover {
-    border-radius: 5px;
-}
-
 #vs-cover:hover {
     opacity: 1;
     -webkit-animation: flash 1.5s;
